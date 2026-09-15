@@ -5,7 +5,9 @@ I have experience developing software for FRC robots, including autonomous path 
 I'm currently working on robotics simulations, software engineering projects, and exploring autonomous robotic systems.
 
 Languages: Python, Java, C++
+
 Robotics: Autonomous navigation, computer vision, sensor integration, CAN
+
 Tools: Git, GitHub, PyBullet, OpenCV
 
 
